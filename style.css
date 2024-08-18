@@ -1,0 +1,6 @@
+body {
+    background-image: url("img/bg1.jpg");
+    background-repeat: no-repeat; /* Optional: Prevents image repetition */
+    background-size: cover; /* Optional: Scales image to cover entire area */
+    background-position: center center; /* Optional: Centers the image */
+  }
